@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>MeTube Home</title>
+  <title>CEF Authoring</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -41,25 +41,15 @@
           <li><a href="browse.php">Browse</a></li>
           <li><a href="upload.php">Upload</a></li>
           <li><a href="poi.php">Points of Interest</a></li>
-        </ul>
+          <li><a href="trailsample.php">Trails</a></li>
+          <li><a href="reporteditems.php">Reported Items</a></li>
+          <li><a href="logout.php">Logout</a></li>
+        </ul>        
       </div>
     </div>
     <div id="site_content">
       <div class="sidebar">
-        <!-- insert your sidebar items here -->
-
-        <h3>Trails</h3>
-        <ul>
-          <li>coming soon</li>
-        </ul>
-
-        <!--<h3>Search</h3>
-        <form method="post" action="#" id="search_form">
-          <p>
-            <input class="search" type="text" name="search_field" value="Enter keywords....." />
-            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
-          </p>
-        </form>-->
+        
       </div>
       <div id="content">
         <!-- insert the page content here -->
@@ -69,6 +59,8 @@
         <source src="movie.ogg" type="video/ogg">
         Your browser does not support the video tag.
       </video>
+
+      
    
 
     <div id="upload result">

@@ -49,7 +49,9 @@
 			  <li class="selected"><a href="home.php">Home</a></li>
 			  <li><a href="browse.php">Browse</a></li>
 			  <li><a href="upload.php">Upload</a></li>
-			  <li><a href="trailsample.php">Trails</a></li>
+        <li><a href="poi.php">Points of Interest</a></li>
+        <li><a href="trailsample.php">Trails</a></li>
+
 
 			</ul>
 		  </div>
